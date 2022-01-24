@@ -1,0 +1,624 @@
+{
+    "Nome" : "Ancient"s Pledge"
+    "Runa" : ["Ral", "Ort", "Tal"]
+    "Equipamento" : ["Escudos"]
+    "Nivel" : "21"
+    "Atributo" : ["Resistencia ao frio +43%", "Resistencia ao fogo +48%", "Resistencia ao raio +48%", "Resistencia ao veneno +48%", "Aumento de defesa +50%"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Beast"
+    "Runa" : ["Ber", "Tir", "Um", "Mal", "Lum"]
+    "Equipamento" : ["Machados", "Martelos", "Cetros"]
+    "Nivel" : "63"
+    "Atributo" : ["Aura FANATISMO lv9 ao equipar", "Aumento de velocidade de ataque +40%", "Aumento de dano +<240%..270%>", "20% de chance de Golpe Esmagador", "25% de chance de Abrir Feridas", "HOMEM-URSO +3 [Somente Druidas]", "LICANTROFIA +3 [Somente Druidas]", "Impede a cura dos monstros", "Forca +<25..40>", "Energia +10", "Mana +2 apos cada morte", "INVOCAR URSO PARDO lv13 [5 cargas]"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Black"
+    "Runa" : ["Thul", "Io", "Nef"]
+    "Equipamento" : ["Clavas", "Martelos", "Macas"]
+    "Nivel" : "35"
+    "Atributo" : ["Aumento de dano +120%", "Taxa de ataque +200", "Dano de gelo 3-14", "Aumento de velocidade de ataque +15%", "Empurra o alvo", "EXPLOSAO DE CADAVERES lv4 [12 cargas]", "40% de chance de Golpe Esmagador", "Dano magico reduzido em 2", "Vitalidade +10"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Bone"
+    "Runa" : ["Sol", "Um", "Um"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "47"
+    "Atributo" : ["15% de chance de lancar ARMADURA DE OSSOS lv10 ao ser atingido", "15% de chance de lancar LANCA DE OSSO lv10 ao atacar", "Todas as habilidades de Necromante +2", "Mana maxima +<100..150>", "Todas as resistencias +30", "Dano reduzido em 7"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Bramble"
+    "Runa" : ["Ral", "Ohm", "Sur", "Eth"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "61"
+    "Atributo" : ["Recuperacao de vida +50%", "Dano de habilidades de veneno +100%", "Defesa +300", "Mana maxima +5%", "Regeneracao de mana +15%", "Resistencia maxima ao frio +5%", "Resistencia ao fogo +30%", "Resistencia ao veneno +100%", "Vida +13 apos cada morte", "ESPIRITO DE FARPAS lv13 [33 cargas]"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Brand"
+    "Runa" : ["Jah", "Lo", "Mal", "Gul"]
+    "Equipamento" : ["Arcos", "Bestas"]
+    "Nivel" : "65"
+    "Atributo" : ["35% de chance de lancar AMPLIFICAR DANO lv14 ao ser atingido", "100% de chance de lancar LANCA DE OSSO lv18 ao atacar", "Aumento de dano +<260%..340%>", "Ignora a defesa do alvo", "Bonus de taxa de ataque +20%", "Dano contra demonios +<280%..330%>", "20% de chance de Golpe Mortal", "Impede a cura dos monstros", "Empurra o alvo", "Dispara flechas ou varetas explosivas"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Breath of the dying"
+    "Runa" : ["Vex", "Hel", "El", "Eld", "Zod", "Eth"]
+    "Equipamento" : ["Todas as armas"]
+    "Nivel" : "69"
+    "Atributo" : ["50% de chance de lancar NOVA DE VENENO lv20 ao matar um inimigo", "Indestrutivel", "Aumento de velocidade de ataque +60%", "Aumento de dano +<350%..400%>", "Dano contra mortos vivos +200%", "Defesa do alvo -25%", "Taxa de ataque +50", "Taxa de ataque contra mortos vivos +50", "Rouba-mana +7%", "Rouba-vida +<12%..15%>", "Impede a cura dos monstros", "Todos os atributos +30", "Iluminacao +1", "Requerimentos -20%"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Call to arms"
+    "Runa" : ["Amn", "Ral", "Mal", "Ist", "Ohm"]
+    "Equipamento" : ["Todas as armas"]
+    "Nivel" : "57"
+    "Atributo" : ["Todas as habilidades +1", "Aumento de velocidade de ataque +40%", "Aumento de dano +<200%..240%>", "Dano de fogo +5-30", "Rouba-vida +7%", "COMANDO DE GUERRA +<1..6> [Somente Barbaros]", "ORDENS DE GUERRA +<1..6> [Somente Barbaros]", "GRITO DE GUERRA +<1..4> [Somente Barbaros]", "Impede a cura dos monstros", "Recupera vida +12", "30% de chance de conseguir melhores itens magicos"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Chains of honor"
+    "Runa" : ["Dol", "Um", "Ber", "Ist"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "24"
+    "Atributo" : ["Todas as habilidades +2", "Dano contra demonios +200%", "Dano contra mortos vivos +100%", "Rouba-vida +8%", "Aumento de defesa +70%", "Forca +20", "Recupera vida +7", "Todas as resistencias +65", "Dano reduzido em 8%", "25% de chance de conseguir melhores itens magicos"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Chaos"
+    "Runa" : ["Fal", "Ohm", "Um"]
+    "Equipamento" : ["Garras"]
+    "Nivel" : "57"
+    "Atributo" : ["9% de chance de lancar ORB CONGELANTE lv11 ao atacar", "11% de chance de lancar __CHARGED BOLT__ lv9 ao atacar", "Aumento de velocidade de ataque +35%", "Aumento de dano +<240%..290%>", "Dano magico +216--471", "25% de chance de Abrir Feridas", "REDEMOINHO +1 [Somente Barbaros]", "Forca +10", "Vida +15 apos cada demonio morto"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Crescent moon"
+    "Runa" : ["Shael", "Um", "Tir"]
+    "Equipamento" : ["Machados", "Armas de haste", "Espadas"]
+    "Nivel" : "47"
+    "Atributo" : ["10% de chance de lancar CORRENTE DE RAIOS lv17 ao atacar", "7% de chance de lancar CAMPO ESTATICO lv13 ao atacar", "Aumento de velocidade de ataque +20%", "Aumento de dano +<220%..260%>", "Ignora a defesa do alvo", "Resistencia ao raio do inimigo -35%", "25% de chance de Abrir Feridas", "Absorcao Magica +<9..11>", "Mana +2 apos cada morte", "INVOCAR LOBO ESPIRITUAL lv18 [30 cargas]"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Death"
+    "Runa" : ["Hel", "El", "Vex", "Ort", "Gul"]
+    "Equipamento" : ["Espadas", "Machados"]
+    "Nivel" : "55"
+    "Atributo" : ["100% de chance de lancar CORRENTE DE RAIOS lv44 ao morrer", "25% de chance de lancar __GLACIAL SPIKE__ lv18 ao atacar", "Indestrutivel", "Aumento de dano +<300%..385%>", "Bonus de taxa de ataque +20%", "Taxa de ataque +50", "Dano de raio +1--50", "Rouba-mana +7%", "50% de chance de Golpe Esmagador", "<x*0.5%> de chance de Golpe Mortal [Com base no nivel do personagem]", "Iluminacao +1", "GOLEM DE SANGUE lv22 [15 cargas]", "Requerimentos -20%"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Delirium"
+    "Runa" : ["Lem", "Ist", "Io"]
+    "Equipamento" : ["Elmos"]
+    "Nivel" : "51"
+    "Atributo" : ["1% de chance de lancar __DELIRIUM__ ao ser atingido", "10% de chance de lancar EXPLOSAO MENTAL ao ser atingido", "20% de chance de lancar TERROR lv13 ao ser atingido", "33% de chance de lancar CONFUSAO lv18 ao ser atacar", "Todas as habilidades +2", "Defesa +261", "Vitalidade +10", "50% de ouro adicional dos monstros", "25% de chance de conseguir melhores itens magicos", "ATRAIR lv17 [60 cargas]"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Destruction"
+    "Runa" : ["Vex", "Lo", "Ber", "Jah", "Ko"]
+    "Equipamento" : ["Armas de haste", "Espadas"]
+    "Nivel" : "65"
+    "Atributo" : ["23% de chance de lancar VOLCANO lv12 ao atacar", "5% de chance de lancar __MOLTEN BOULDER__ lv23 ao atacar", "100% de chance de lancar METEORO lv45 ao morrer", "15% de chance de lancar NOVA lv22 ao atacar", "Aumento de defesa +350%", "Ignora a defesa do alvo", "Dano magico +100--180", "Rouba-mana +7%", "20% de chance de Golpe Esmagador", "20% de chance de Golpe Mortal", "Impede a cura dos monstros", "Destreza +10"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Doom"
+    "Runa" : ["Hel", "Ohm", "Um", "Lo", "Cham"]
+    "Equipamento" : ["Machados", "Martelos", "Armas de haste"]
+    "Nivel" : "67"
+    "Atributo" : ["5% de chance de lancar VOLCANO lv18 ao atacar", "Aura GEADA SAGRADA lv12 ao equipar", "Todas as habilidades +2", "Aumento de velocidade de ataque +45%", "Aumento de dano +<280%..320%>", "Resistencia ao frio do inimigo -57%", "20% de chance de Golpe Mortal", "25% de chance de Abrir Feridas", "Impede a cura dos monstros", "Congela o alvo", "Requerimentos -20%"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Dragon"
+    "Runa" : ["Sur", "Lo", "Sol"]
+    "Equipamento" : ["Peitoral", "Escudos"]
+    "Nivel" : "61"
+    "Atributo" : ["20% de chance de lancar __VENOM__ lv18 ao ser atingido", "12% de chance de lancar HIDRA lv15 ao atacar", "Aura FOGO SAGRADO lv14 ao equipar", "Defesa +360", "Defesa contra projeteis +230", "Todos os atributos +<3..5>", "Forca +<x*0.375> [Com base no nivel do personagem]", "Resistencia maxima ao raio +5%", "Dano reduzido em 7", "Mana maxima +5% [runeword em Peitoral]", "Mana +50 [runeword em Escudo]"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Dream"
+    "Runa" : ["Io", "Jah", "Pul"]
+    "Equipamento" : ["Elmos", "Escudos"]
+    "Nivel" : "65"
+    "Atributo" : ["10% de chance de lancar CONFUSAO lv15 ao ser atingido", "Aura CHOQUE SAGRADO lv15 ao equipar", "Recuperacao de vida +<20%..30%>", "Aumento de defesa +30%", "Defesa +<150..220>", "Vitalidade +10", "Aumento de vida maxima +5% [runeword em Elmo]", "Vida +50 [runeword em Escudo]", "Mana +<x*0.625> [Com base no nivel do personagem]", "Todas as resistencias +<5..20>", "<12%..25%> de chance de conseguir melhores itens magicos"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Duress"
+    "Runa" : ["Shael", "Um", "Thul"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "47"
+    "Atributo" : ["Aumento de defesa +<150%..200%>", "Recuperacao de vida +15%", "Resistencia ao fogo +15%", "Resistencia ao frio +45%", "Resistencia ao raio +15%", "Resistencia ao veneno +15%", "Aumento de dano +<10%..25%>", "Dano de gelo +37--133", "15% de chance de Golpe Esmagador", "33% de chance de Abrir Feridas", "Drenagem de vigor mais lento -20%"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Edge"
+    "Runa" : ["Tir", "Tal", "Amn"]
+    "Equipamento" : ["Arcos", "Bestas"]
+    "Nivel" : "25"
+    "Atributo" : ["Aura ESPINHOS lv15 ao equipar", "Aumento de velocidade de ataque +35%", "Dano contra demonios +<320%..380%>", "Dano contra mortos vivos +280%", "+75 de dano de veneno por 5 segundos", "Rouba-vida +7%", "Impede a cura dos monstros", "Todos os atributos +<5..10>", "Mana +2 apos cada morte", "Reduz o preco de todos os produtos a venda em 15%"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Enigma"
+    "Runa" : ["Jah", "Ith", "Ber"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "65"
+    "Atributo" : ["Todas as habilidades +2", "Velocidade de andar/correr +45%", "TELEPORTE +1 [Somente Feiticeiras]", "Defesa +<750..775>", "Forca +<x*0.75> [Com base no nivel do personagem]", "Aumenta vida maxima +5%", "Dano reduzido em 8%", "Vida +14 apos cada morte", "15% do dano recebido transferido para a mana", "<x*1%> de chance de conseguir melhores itens magicos [Com base no nivel do personagem]"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Enlightenment"
+    "Runa" : ["Pur", "Ral", "Sol"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "45"
+    "Atributo" : ["5% de chance de lancar __BLAZE__ ao ser atingido", "15% de chance de lancar BOLA DE FOGO ao atacar", "Todas as habilidades de feiticeira +2", "__WARMTH__ +1 [Somente Feiticeiras]", "Aumento de defesa +30%", "Resistencia ao fogo +30%", "Dano reduzido em 7"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Eternity"
+    "Runa" : ["Amn", "Ber", "Ist", "Sol", "Sur"]
+    "Equipamento" : ["Todas as armas corpo-a-corpo"]
+    "Nivel" : "63"
+    "Atributo" : ["Indestrutivel", "Aumento de defesa +276%", "Dano minimo +9", "Rouba-vida +7%", "20% de chance de Golpe Esmagador", "Cega o alvo", "Deixa o alvo lento +33%", "Recupera mana +16%", "Nao pode ser congelado", "30% de chance de conseguir melhores itens magicos", "REVIVER lv8 [88 cargas]"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Exile"
+    "Runa" : ["Vex", "Ohm", "Ist", "Dol"]
+    "Equipamento" : ["Escudos de paladino"]
+    "Nivel" : "57"
+    "Atributo" : ["15% de chance de lancar TORNEIRA DA VIDA ao atacar", "Aura DESAFIO lv<13..16> ao equipar", "Habilidades AURAS OFENSIVAS +2 [Somente Paladinos]", "Aumento na velocidade de bloqueio +30%", "Congela o alvo", "Aumento de defesa +<220%..260%>", "Recupera vida +7", "Resistencia maxima ao gelo +5%", "Resistencia maxima ao fogo +5%", "25% de chance de conseguir melhores itens magicos", "Conserta 1 de durabilidade a cada 4 segundos"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Faith"
+    "Runa" : ["Ohm", "Jah", "Lem", "Eld"]
+    "Equipamento" : ["Arcos", "Bestas"]
+    "Nivel" : "65"
+    "Atributo" : ["Aura FANATISMO lv<12..15> ao equipar", "Todas as habilidades +<1..2>", "Aumento de dano +330%", "Ignora a defesa do alvo", "Bonus de taxa de ataque +300%", "Dano contra mortos vivos +75%", "Taxa de ataque contra mortos vivos +50", "Dano de fogo +120", "Todas as resistencias +15", "<<<10% de chance de reanimar o alvo>>>", "75% de ouro adicional dos monstros"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Famine"
+    "Runa" : ["Fal", "Ohm", "Ort", "Jah"]
+    "Equipamento" : ["Machados", "Martelos"]
+    "Nivel" : "65"
+    "Atributo" : ["Aumento de velocidade de ataque +30%", "Aumento de dano +<320%..370%>", "Ignora a defesa do alvo", "Dano magico +180--200", "Dano de fogo +50--200", "Dano de raio +51--250", "Dano de gelo +50--200", "Rouba-vda +12%", "Impede a cura dos monstros", "Forca +10"]
+    "Servidor" : ""
+},
+{
+    "Nome" : "Fortitude"
+    "Runa" : ["El", "Sol", "Dol", "Lo"]
+    "Equipamento" : ["Todas as armas", "Peitoral"]
+    "Nivel" : "59"
+    "Atributo" : ["20% de chance de lancar __CHILLING ARMOR__ lv15 ao ser atingido", "Velocidade de lancamento de magias +25%", "Aumento de dano +300%", "Iluminacao +1", "12% do dano recebido transferido para a mana", "Todas as resistencias +<25..30>", "Aumento de defesa +200%", "Vida +<x*1..x*1.5> [Com base no nivel do personagem]", "Dano minimo +9 [runeword em Todas as Armas]", "Taxa de ataque +50 [runeword em Todas as Armas]", "20% de chance de Golpe Mortal [runeword em Todas as Armas]", "Aterroriza o alvo +25% [runeword em Todas as Armas]", "Defesa +15 [runeword em Peitoral]", "Recupera vida +7 [runeword em Peitoral]", "Resistencia maxima ao raio +5% [runeword em Peitoral]", "Dano reduzido em 7 [runeword em Peitoral]"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Fury"
+    "Runa" : ["Jah", "Gul", "Eth"]
+    "Equipamento" : ["Todas as armas corpo-a-corpo"]
+    "Nivel" : "65"
+    "Atributo" : ["Aumento de dano +209%", "Aumento de velocidade de ataque +40%", "Impede a cura dos monstros", "66% de chance de Abrir Feridas", "33% de chance de Golpe Mortal", "Ignora a defesa do alvo", "Defesa do alvo -25%", "Taxa de ataque +20%", "Rouba-vida +6%", "FRENESI +5 [Somente Barbaros]"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Gloom"
+    "Runa" : ["Fal", "Um", "Pul"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "47"
+    "Atributo" : ["15% de chance de lancar __DIM VISION__ lv3 ao ser atingido", "Recuperacao de vida +10%", "Aumento de defesa +<200%..260%>", "Forca +10", "Todas as resistencias +45", "Metade da duracao do congelamento", "5% do dano recebido transferido para a mana", "Iluminacao -3"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Grief"
+    "Runa" : ["Eth", "Tir", "Lo", "Mal", "Ral"]
+    "Equipamento" : ["Espadas", "Machados"]
+    "Nivel" : "59"
+    "Atributo" : ["35% de chance de lancar __VENOM__ lv15 ao atacar", "Aumento de velocidade de ataque +<30%..40%>", "Dano +<340...400>", "Ignora a defesa do alvo", "Defesa do alvo -25%", "Dano contra demonios +<x*1,875> [Com base no nivel do personagem]", "Dano de fogo +5--30", "Resistencia ao veneno do inimigo -<20%..25%>", "20% de chance de Golpe Mortal", "Impede a cura dos monstros", "Mana +2 apos cada morte", "Vida +<10..15> apos cada morte"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Hand of justice"
+    "Runa" : ["Sur", "Cham", "Amn", "Lo"]
+    "Equipamento" : ["Todas as armas"]
+    "Nivel" : "67"
+    "Atributo" : ["100% de chance de lancar __BLAZE__ lv36 ao passar de nivel", "100% de chance de lancar METEORO lv48 ao morrer", "Aura FOGO SAGRADO lv16 ao equipar", "Aumento de velocidade de ataque +33%", "Aumento de dano +<280%..330%>", "Ignora a defesa do alvo", "Rouba-vida +7%", "Resistencia ao fogo do inimigo -20%", "20% de chance de Golpe Mortal", "Cega o alvo", "Congela o alvo"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Harmony"
+    "Runa" : ["Tir", "Ith", "Sol", "Ko"]
+    "Equipamento" : ["Arcos", "Bestas"]
+    "Nivel" : "39"
+    "Atributo" : ["Aura VIGOR lv10 ao equipar", "Aumento de dano +<200%..275%>", "Dano minimo +9", "Dano maximo +9", "Dano de raio +55--160", "Dano de frio +55--160", "Dano de fogo +55--160", "VALQUIRIA +<2..6> [Somente amazonas]", "Destreza +10", "Regenera mana +20%", "Mana +2 apos cada morte", "Iluminacao +2", "REVIVER lv20 [25 cargas]"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Heart of the oak"
+    "Runa" : ["Ko", "Vex", "Pul", "Thul"]
+    "Equipamento" : ["Bastoes", "Macas"]
+    "Nivel" : "55"
+    "Atributo" : ["Todas as habilidades +3", "Velocidade de lancamento de magias +40%", "Dano contra demonios +75%", "Taxa de ataque contra demonios +100", "Dano de frio +3--14", "Rouba-mana +7%", "Destreza +10", "Recupera vida +20", "Aumenta mana maxima +15%", "Todas as resistencias +<30..40>", "SABIO CARVALHO lv4 [25 cargas]", "CORVO lv14 [60 cargas]", "Dano contra mortos vivos +50%"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Holy thunder"
+    "Runa" : ["Eth", "Ral", "Ort", "Tal"]
+    "Equipamento" : ["Cetros"]
+    "Nivel" : "23"
+    "Atributo" : ["CORRENTE DE RAIOS lv7 [60 cargas]", "Defesa do alvo -25%", "Aumento de dano +60%", "+75 de dano de veneno por 7 segundos", "Resistencia maxima ao raio +5%", "Resistencia ao raio +60%", "Dano de raio +21--110", "Dano de fogo +5--30", "CHOQUE SAGRADO +3 [Somente Paladinos]", "Dano contra mortos vivos +150%"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Honor"
+    "Runa" : ["Amn", "El", "Ith", "Tir", "Sol"]
+    "Equipamento" : ["Todas as armas corpo-a-corpo"]
+    "Nivel" : "27"
+    "Atributo" : ["Aumento de dano +160%", "Taxa de ataque +250", "Dano minimo +9", "Dano maximo +9", "25% de chance de Golpe Mortal", "Rouba-vida +7%", "Todas as habilidades +1", "Mana +2 apos cada morte", "Iluminacao +1", "Recupera vida +10", "Forca +10"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Ice"
+    "Runa" : ["Amn", "Shael", "Jah", "Lo"]
+    "Equipamento" : ["Arcos", "Bestas"]
+    "Nivel" : "65"
+    "Atributo" : ["100% de chance de lancar NEVASCA lv40 ao passar de nivel", "25% de chance de lancar NOVA CONGELANTE lv22 ao atacar", "Aura GEADA SAGRADA lv18 ao equipar", "Aumento de velocidade de ataque +20%", "Aumento de dano +<140%..210%>", "Ignora a defesa do alvo", "Dano de habilidades de frio +<25%..30%>", "Resistencia ao frio do inimigo -20%", "Rouba-vida +7%", "20% de chance de Golpe Mortal", "<x*3.125%> de ouro adicional dos monstros [Com base no nivel do personagem]"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Infinity"
+    "Runa" : ["Ber", "Mal", "Ber", "Ist"]
+    "Equipamento" : ["Armas de haste"]
+    "Nivel" : "63"
+    "Atributo" : ["50% de chance de lancar CORRENTE DE RAIOS lv20 ao matar um inimigo", "Aura CONVICCAO lv12 ao equipar", "Velocidade de andar/correr +35%", "Aumento de dano +<255%..325%>", "Resistencia ao raio do inimigo -<45%..55%>", "40% de chance de Golpe Esmagador", "Impede a cura dos monstros", "Vitalidade +<x*0.5> [Com base no nivel do personagem]", "30% de chance de conseguir melhores itens magicos", "ARMADURA CICLONE lv21 [30 cargas]"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Insight"
+    "Runa" : ["Ral", "Tir", "Tal", "Sol"]
+    "Equipamento" : ["Armas de haste", "Bastoes"]
+    "Nivel" : "27"
+    "Atributo" : ["Aura MEDITACAO lv<10..17> ao equipar", "Velocidade de lancamento de magias +35%", "Dano minimo +9", "Bonus de taxa de ataque +<180%..250%>", "Dano de fogo +5--30", "+75 de dano de veneno por 5 segundos", "ATAQUE CRITICO +<1..6>", "Todos os atributos +5", "Mana +2 apos cada morte", "23% de chance de conseguir melhores itens magicos"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "King"s Grace"
+    "Runa" : ["Amn", "Ral", "Thul"]
+    "Equipamento" : ["Espadas", "Cetros"]
+    "Nivel" : "25"
+    "Atributo" : ["Aumento de dano +100%", "Taxa de ataque +150", "Taxa de ataque contra mortos vivos +100", "Dano contra mortos vivos +150%", "Taxa de ataque contra demonios +100", "Dano contra demonios +200%", "Rouba-vida +7%", "Dano de gelo +3--14", "Dano de fogo +5--30"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Kingslayer"
+    "Runa" : ["Mal", "Um", "Gul", "Fal"]
+    "Equipamento" : ["Espadas", "Machados"]
+    "Nivel" : "53"
+    "Atributo" : ["Aumento de velocidade de ataque +30%", "Aumento de dano +<230%..270%>", "Defesa do alvo -25%", "Bonus de taxa de ataque +20%", "33% de chance de Golpe Esmagador", "50% de chance de Abrir Feridas", "VINGANCA +1 [Somente Paladinos]", "Impede a cura dos monstros", "Forca +10", "40% de ouro adicional dos monstros"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Last wish"
+    "Runa" : ["Jah", "Mal", "Jah", "Sur", "Jah", "Ber"]
+    "Equipamento" : ["Machados", "Martelos", "Espadas"]
+    "Nivel" : "65"
+    "Atributo" : ["6% de chance de lancar __FADE__ lv11 ao ser atingido", "10% de chance de lancar TORNEIRA DA VIDA lv18 ao atacar", "20% de chance de lancar __CHARGED BOLT__ lv20 ao atacar", "Aura PODER lv17 ao equipar", "Aumento de dano +<330%..375%>", "Ignora a defesa do alvo", "<60%..70%> de chance de Golpe Esmagador", "Impede a cura dos monstros", "Cega o alvo", "<x*0.5%> de chance de obter melhores itens magicos [Com base no nivel do personagem]"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Lawbringer"
+    "Runa" : ["Amn", "Lem", "Ko"]
+    "Equipamento" : ["Martelos", "Cetros", "Espadas"]
+    "Nivel" : "43"
+    "Atributo" : ["20% de chance de lancar __DECREPIFY__ lv15 ao atacar", "Aura SANTUARIO lv<16..18> ao equipar", "Defesa do alvo -50%", "Dano de fogo +150--210", "Dano de frio +130--180", "Rouba-vida +7%", "<<<slain monsters rest in peace>>>", "Defesa contra projeteis +<200..250>", "Destreza +10", "75% de ouro adicional dos monstros"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Leaf"
+    "Runa" : ["Tir", "Ral"]
+    "Equipamento" : ["Bastoes"]
+    "Nivel" : "19"
+    "Atributo" : ["Dano de fogo +5--30", "Mana +2 apos cada morte", "Habilidades de fogo +3", "Resistencia ao frio +33%", "INFERNO +3 [Somente Feiticeiras]", "__FIRE BOLT__ +3 [Somente Feiticeiras]", "__WARMTH__ +3 [Somente Feiticeiras]"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Lionheart"
+    "Runa" : ["Hel", "Lum", "Fal"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "41"
+    "Atributo" : ["Aumento de dano +20%", "Todas as resistencias +30%", "Vida +50", "Energia +10", "Vitalidade +20", "Destreza +15", "Forca +25", "Requerimentos -15%"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Lore"
+    "Runa" : ["Ort", "Sol"]
+    "Equipamento" : ["Elmos"]
+    "Nivel" : "27"
+    "Atributo" : ["Todas as habilidades +1", "Mana +2 apos cada morte", "Dano reduzido em 7", "Resistencia ao raio +30%", "Energia +10", "Iluminacao +2"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Malice"
+    "Runa" : ["Ith", "El", "Eth"]
+    "Equipamento" : ["Todas as armas corpo-a-corpo"]
+    "Nivel" : "15"
+    "Atributo" : ["Aumento de dano +33%", "Dano maximo +9", "Taxa de ataque +50", "100% de chance de Abrir Feridas", "Defesa do monstro -100 por acerto", "Impede a cura dos monstros", "Defesa do alvo -25%", "Drena vida -5"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Melody"
+    "Runa" : ["Shael", "Ko", "Nef"]
+    "Equipamento" : ["Arcos", "Bestas"]
+    "Nivel" : "39"
+    "Atributo" : ["Dano contra mortos vivos +300%", "Aumento de dano +50%", "Destreza +10", "Aumento na velocidade de ataque +20%", "Empurra o alvo", "Habilidades ARCO E BESTA +3 [Somente Amazonas]", "__SLOW MISSILES__ +3 [Somente Amazonas]", "__DODGE__ +3 [Somente Amazonas]", "ATAQUE CRITICO +3"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Memory"
+    "Runa" : ["Lum", "Io", "Sol", "Eth"]
+    "Equipamento" : ["Bastoes"]
+    "Nivel" : "37"
+    "Atributo" : ["Defesa do alvo -25%", "Velocidade de lancamento de magias +33%", "Todas as habilidades de Feiticeira +3", "Aumento de defesa +50%", "Dano magico reduzido em 7", "Mana maxima +20%", "Dano minimo +9", "Energia +10", "Vitalidade +10", "CAMPO ESTATICO +2 [Somente Feiticeiras]", "ESCUDO DE ENERGIA +2 [Somente Feiticeiras]"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Myth"
+    "Runa" : ["Hel", "Amn", "Nef"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "25"
+    "Atributo" : ["3% de chance de lancar __HOWL__ ao ser atingido", "10% de chance de lancar INTIMIDAR lv1 ao atacar", "Todas as habilidades de Barbaro +2", "Defesa contra projeteis +30", "Recupera vida +10", "Atacantes recebem 14 de dano", "Requerimentos -15%"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Nadir"
+    "Runa" : ["Nef", "Tir"]
+    "Equipamento" : ["Elmos"]
+    "Nivel" : "13"
+    "Atributo" : ["MANTO DAS SOMBRAS lv13 [9 cargas]", "Aumento de defesa +50%", "Mana +2 apos cada morte", "Iluminacao -3", "Defesa contra projeteis +30", "Defesa +10", "Forca +5", "-33% de ouro adicional dos monstros"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Oath"
+    "Runa" : ["Shael", "Pul", "Mal", "Lum"]
+    "Equipamento" : ["Machados", "Macas", "Espadas"]
+    "Nivel" : "59"
+    "Atributo" : ["30% de chance de lancar ESPIRITO DE OSSO lv20 ao atacar", "Indestrutivel", "Aumento na velocidade de ataque +50%", "Aumento de dano +<210%..340%>", "Dano contra demonios +75%", "Taxa de ataque contra demonios +100", "Impede a cura dos monstros", "Energia +10", "Absorcao magica +<10..15>", "CORACAO DE CARCAJU lv16 [20 cargas]", "GOLEM DE FERRO lv17 [14 cargas]"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Obedience"
+    "Runa" : ["Hel", "Ko", "Thul", "Eth", "Fal"]
+    "Equipamento" : ["Armas de haste"]
+    "Nivel" : "41"
+    "Atributo" : ["30% de chance de lancar __ENCHANT__ lv21 ao matar um inimigo", "Recuperacao de vida +40%", "Aumento de dano +370%", "Defesa do alvo -25%", "Dano de frio +3--14", "Resistencia ao fogo do inimigo -25%", "40% de chance de Golpe Esmagador", "Defesa +<200..300>", "Forca +10", "Destreza +10", "Todas as Resistencias +<20..30>", "Requerimentos -20%"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Passion"
+    "Runa" : ["Dol", "Ort", "Eld", "Lem"]
+    "Equipamento" : ["Todas as armas"]
+    "Nivel" : "43"
+    "Atributo" : ["Aumento na velocidade de ataque +25%", "Aumento de dano +<160%..210%>", "Bonus de taxa de ataque +<50%..80%>", "Dano contra mortos vivos +75%", "Taxa de ataque contra mortos vivos +50", "Dano de raio +1--50", "__BERSERK__ +1 [Somente Barbaros]", "ZELO +1 [Somente Paladinos]", "Cega o alvo +10", "Aterroriza o alvo +25%", "75% de ouro adicional dos monstros", "CORACAO DE CARCAJU lv3 [12 cargas]"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Peace"
+    "Runa" : ["Shael", "Thul", "Amn"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "29"
+    "Atributo" : ["4% de chance de lancar __SLOW MISSILES__ lv5 ao ser atingido", "2% de chance de lancar VALQUIRIA lv15 ao atacar", "Todas as habilidades de Amazona +2", "Recuperacao de vida +20%", "ATAQUE CRITICO +2", "Resistencia ao frio +30%", "Atacantes recebem 14 de dano"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Phoenix"
+    "Runa" : ["Vex", "Vex", "Lo", "Jah"]
+    "Equipamento" : ["Todas as armas", "Escudos"]
+    "Nivel" : "65"
+    "Atributo" : ["100% de chance de lancar __BLAZE__ lv40 ao passar de nivel", "40% de chance de lancar TEMPESTADE DE FOGO lv22 ao atacar", "Aura REDENCAO lv<10..15> ao equipar", "Resistencia ao fogo do inimigo -28%", "Absorve dano de fogo +<15..21>", "Defesa contra projeteis +<350..400>", "Aumento de dano +<350%..400%>", "Ignora a defesa do alvo [runeword em Todas as armas]", "Rouba-mana +14% [runeword em Todas as armas]", "20% de chance de Golpe Mortal [runeword em Todas as armas]", "Vida +50 [runeword em Escudos]", "Resistencia maxima ao raio +5% [runeword em Escudos]", "Resistencia maxima ao fogo +10% [runeword em Escudos]"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Pride"
+    "Runa" : ["Cham", "Sur", "Io", "Lo"]
+    "Equipamento" : ["Armas de haste"]
+    "Nivel" : "67"
+    "Atributo" : ["25% de chance de lancar MURO DE FOGO lv17 ao ser atingido", "Aura CONCENTRACAO lv<16..20> ao equipar", "Bonus para a taxa de ataque +<260%..300%>", "Dano contra demonios +<x*1%> [Com base no nivel do personagem]", "Dano de raio +50--280", "20% de chance de Golpe Mortal", "Cega o alvo", "Congela o alvo +3", "Vitalidade +10", "Recupera vida +8", "<x*1,875%> de ouro adicional dos monstros [Com base no nivel do personagem]"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Principle"
+    "Runa" : ["Ral", "Gul", "Eld"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "55"
+    "Atributo" : ["100% de chance de lancar FLECHA SAGRADA lv5 ao atacar", "Todas as habilidades de Paladino +2", "Drenagem de vigor mais lento +15%", "Resistencia maxima ao veneno +5%", "Resistencia ao fogo +30%"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Prudence"
+    "Runa" : ["Mal", "Tir"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "49"
+    "Atributo" : ["Recuperacao de vida +25%", "Aumento de defesa +<140%..170%>", "Todas as resistencias +<25..35>", "Dano reduzido em 3", "Dano magico reduzido em 17", "Mana +2 apos cada morte", "Iluminacao +1", "Conserta 1 de durabilidade a cada 4 segundos"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Radiance"
+    "Runa" : ["Nef", "Sol", "Ith"]
+    "Equipamento" : ["Elmos"]
+    "Nivel" : "27"
+    "Atributo" : ["15% do dano recebido transferido para a mana", "Aumento de dano +75%", "Dano magico reduzido em 3", "Dano reduzido em 7", "Defesa contra projeteis +30", "Mana +33", "Energia +10", "Vitalidade +10", "Iluminacao +5"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Rain"
+    "Runa" : ["Ort", "Mal", "Ith"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "49"
+    "Atributo" : ["5% de chance de lancar ARMADURA CICLONE lv15 ao ser atingido", "5% de chance de lancar __TWISTER__ lv15 ao ser atingido", "Todas as habilidades de Druida +2", "Mana +<100..150>", "Resistencia ao raio +30%", "Dano magico reduzido em 7", "15% do dano recebido transferido para a mana"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Rhyme"
+    "Runa" : ["Shael", "Eth"]
+    "Equipamento" : ["Escudos"]
+    "Nivel" : "29"
+    "Atributo" : ["Nao pode ser congelado", "Aumento na velocidade de bloqueio +40%", "Aumento na chance de bloqueio +20%", "Regenera mana +15%", "Todas as resistencias +25%", "25% de chance de conseguir melhores itens magicos", "50% de ouro adicional dos monstros"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Rift"
+    "Runa" : ["Hel", "Ko", "Lem", "Gul"]
+    "Equipamento" : ["Armas de haste", "Cetros"]
+    "Nivel" : "53"
+    "Atributo" : ["20% de chance de lancar TORNADO lv16 ao atacar", "16% de chance de lancar ORBE CONGELANTE lv21 ao atacar", "Bonus de taxa de ataque +20%", "Dano magico +160--250", "Dano de fogo +60--180", "Todas os atributos +<5..10>", "Destreza +10", "38% do dano recebido transferido para a mana", "75% de ouro adicional dos monstros", "DAMA DE FERRO lv15 [40 cargas]", "Requerimentos -20%"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Sanctuary"
+    "Runa" : ["Ko", "Ko", "Mal"]
+    "Equipamento" : ["Escudos"]
+    "Nivel" : "49"
+    "Atributo" : ["Recuperacao de vida +20%", "Aumento na velocidade de bloqueio +20%", "Aumento na chance de bloqueio +20%", "Aumento de defesa +<130%..160%>", "Defesa contra projeteis +250", "Destreza +20", "Todas as resistencias +<50..70>", "Dano magico reduzido em 7", "__SLOW MISSILES__ lv12 [60 cargas]"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Silence"
+    "Runa" : ["Dol", "Eld", "Hel", "Ist", "Itr", "Vex"]
+    "Equipamento" : ["Todas as armas"]
+    "Nivel" : "55"
+    "Atributo" : ["Aumento de dano +200%", "Dano contra mortos vivos +175%", "Taxa de ataque contra mortos vivos +50", "Rouba-mana +11%", "Cega o alvo", "Recuperacao de vida +20%", "Todas as habilidades +2", "Todas as resistencias +75", "Aumento na velocidade de ataque +20%", "Mana +2 apos cada morte", "Aterroriza o alvo +25%", "30% de chance de conseguir melhores itens magicos", "Requerimentos -20%"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Smoke"
+    "Runa" : ["Nef", "Lum"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "37"
+    "Atributo" : ["ENFRAQUECER lv6 [18 cargas]", "Recuperacao de vida +20%", "Iluminacao -1", "Aumento de defesa +75%", "Todas as resistencias +50%", "Defesa contra projeteis +280", "Energia +10"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Spirit"
+    "Runa" : ["Tal", "Thul", "Ort", "Amn"]
+    "Equipamento" : ["Escudos", "Espadas"]
+    "Nivel" : "25"
+    "Atributo" : ["Todas as habilidades +2", "Velocidade de lancamento de magias +<25%..35%>", "Recuperacao de vida +55%", "Vitalidade +22", "Defesa contra projeteis +250", "Mana +<89..112>", "Absorcao magica +<3..8>", "Resistencia ao frio +35 [runeword em Escudos]", "Resistencia ao raio +35% [runeword em Escudos]", "Resistencia ao veneno +35% [runeword em Escudos]", "Atacantes recebem 14 de dano [runeword em Escudos]", "Dano de raio +1--50 [runeword em Espadas]", "Dano de frio +3--14 [runeword em Espadas]", "+75 de dano de veneno por 5 segundos [runeword em Espadas]", "Rouba-vida +7% [runeword em Espadas]"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Splendor"
+    "Runa" : ["Eth", "Lum"]
+    "Equipamento" : ["Escudos"]
+    "Nivel" : "37"
+    "Atributo" : ["Todas as habilidades +1", "Velocidade de lancamento de magias +10%", "Aumento na velocidade de bloqueio +20%", "Aumento de defesa +<60%..100%>", "Energia +10", "Regenera mana +15%", "50% de ouro adicional dos monstros", "20% de chance de conseguir melhores itens magicos", "Iluminacao +3"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Stealth"
+    "Runa" : ["Tal", "Eth"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "17"
+    "Atributo" : ["Velocidade de lancamento de magias +25%", "Recuperacao de vida +25%", "Velocidade de andar/correr +25%", "Dano magico reduzido em 3", "Regenera mana +15%", "Resistencia ao veneno +30%", "Vigor +15%", "Destreza +6"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Steel"
+    "Runa" : ["Tir", "El"]
+    "Equipamento" : ["Espadas", "Machados", "Macas"]
+    "Nivel" : "13"
+    "Atributo" : ["Aumento de dano +20%", "Dano minimo +3", "Dano maximo +3", "Taxa de ataque +50", "50% de chance de Abrir Feridas", "Iluminacao +1", "Mana +2 apos cada morte", "Aumento na velocidade de ataque +25%"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Stone"
+    "Runa" : ["Shael", "Um", "Pul", "Lum"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "47"
+    "Atributo" : ["Recuperacao de vida +60%", "Aumento de defesa +<250%..290%>", "Defesa contra projeteis +300", "Forca +16", "Vitalidade +16", "Energia +10", "Todas as resistencias +15", "__MOLTEN BOULDER__ lv16 [80 cargas]", "GOLEM DE BARRO lv16 [16 cargas]"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Strength"
+    "Runa" : ["Amn", "Tir"]
+    "Equipamento" : ["Todas as armas corpo-a-corpo"]
+    "Nivel" : "25"
+    "Atributo" : ["Aumento de dano +35%", "25% de chance de Golpe Esmagador", "Rouba-vida +7%", "Mana +2 apos cada morte", "Vitalidade +10", "Forca +20"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Treachery"
+    "Runa" : ["Shael", "Thul", "Lem"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "43"
+    "Atributo" : ["5% de chance de lancar __FADE__ lv15 ao ser atingido", "25% de chance de lancar __VENOM__ lv15 ao atacar", "Todas as habilidades de Assasina +2", "Aumento na velocidade de ataque +45%", "Recuperacao de vida +20%", "Resistencia ao frio +30%", "50% de ouro adicional dos monstros"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Venom"
+    "Runa" : ["Tal", "Dol", "Mal"]
+    "Equipamento" : ["Todas as armas"]
+    "Nivel" : "49"
+    "Atributo" : ["+288 de dano de veneno por 6 segundos", "Aterroriza o alvo +25%", "Impede a cura dos monstros", "Ignora a defesa do alvo", "Rouba-mana +7%", "EXPLOSAO DE VENENO lv15 [27 cargas]", "NOVA DE VENENO lv13 [11 cargas]"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Voice of reason"
+    "Runa" : ["Lem", "Ko", "El", "Eld"]
+    "Equipamento" : ["Macas", "Espadas"]
+    "Nivel" : "43"
+    "Atributo" : ["15% de chance de lancar ORBE CONGELANTE lv13 ao atacar", "18% de chance de lancar EXPLOSAO DE GELO lv20 ao atacar", "Taxa de ataque +50", "Dano contra demonios +<220%..350%>", "Dano contra mortos vivos +<355%..375%>", "Taxa de ataque contra mortos vivos +50", "Dano de frio +100--220", "Resistencia ao frio do inimigo -24%", "Destreza +10", "Nao pode ser congelado", "75% de ouro adicional dos monstros", "Iluminacao +1"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Wealth"
+    "Runa" : ["Lem", "Ko", "Tir"]
+    "Equipamento" : ["Peitoral"]
+    "Nivel" : "43"
+    "Atributo" : ["100% de chance de conseguir melhores itens magicos", "300% de ouro adicional dos monstros", "Mana +2 apos cada morte", "Destreza +10"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "White"
+    "Runa" : ["Dol", "Io"]
+    "Equipamento" : ["Varinhas"]
+    "Nivel" : "35"
+    "Atributo" : ["Aterroriza o alvo +25%", "Velocidade de lancamento de magias +20%", "Dano magico reduzido em 4", "Mana +13", "Vitalidade +10", "Habilidades VENENO E OSSO +3 [Somente Necromantes]", "DOMINIO DO ESQUELETO +4 [Somente Necromantes]", "LANCA DE OSSO +2 [Somente Necromantes]", "ARMADURA DE OSSO +3 [Somente Necromantes]"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Wind"
+    "Runa" : ["Sur", "El"]
+    "Equipamento" : ["Todas as armas corpo-a-corpo"]
+    "Nivel" : "61"
+    "Atributo" : ["10% de chance de lancar TORNADO lv9 ao atacar", "Velocidade de andar/correr +20%", "Aumento na velocidade de ataque +40%", "Recuperacao de vida +15%", "Aumento de dano +<120%..160%>", "Defesa do alvo -50%", "Taxa de ataque +50", "Cega o alvo", "Iluminacao +1", "__TWISTER__ lv13 [127 cargas]"]
+    "Servidor" : "Livre"
+},
+{
+    "Nome" : "Wrath"
+    "Runa" : ["Pul", "Lum", "Ber", "Mal"]
+    "Equipamento" : ["Arcos", "Bestas"]
+    "Nivel" : "63"
+    "Atributo" : ["30% de chance de lancar __DECREPIFY__ lv1 ao atacar", "5% de chance de lancar TORNEIRA DA VIDA lv10 ao atacar", "Dano contra demonios +375%", "Taxa de ataque contra demonios +100", "Dano contra mortos vivos +<250%..300%>", "Dano magico +85--120", "Dano de raio +41--240", "20% de chance de Golpe Esmagador", "Impede a cura dos monstros", "Energia +10", "Nao pode ser congelado"]
+    "Servidor" : "Battle.net"
+},
+{
+    "Nome" : "Zephyr"
+    "Runa" : ["Ort", "Eth"]
+    "Equipamento" : ["Arcos", "Bestas"]
+    "Nivel" : "21"
+    "Atributo" : ["7% de chance de lancar __TWISTER__ lv1 ao ser atingido", "Aumento de dano +33%", "Dano de raio +1--50", "Aumento na velocidade de ataque +25%", "Defesa do alvo -25%", "Velocidade de andar/correr +25%", "Defesa +25", "Taxa de ataque +66"]
+    "Servidor" : "Livre"
+}

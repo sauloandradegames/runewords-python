@@ -1,0 +1,1461 @@
+[n]Ancient's Pledge
+[r]ral
+[r]ort
+[r]tal
+[e]escudos
+[l]21
+[s]Resistencia ao frio +43%
+[s]Resistencia ao fogo +48%
+[s]Resistencia ao raio +48%
+[s]Resistencia ao veneno +48%
+[s]Aumento de defesa +50%
+[?]Livre
+[-]
+[n]Beast
+[r]ber
+[r]tir
+[r]um
+[r]mal
+[r]lum
+[e]machados
+[e]martelos
+[e]cetros
+[l]63
+[s]Aura FANATISMO lv9 ao equipar
+[s]Aumento de velocidade de ataque +40%
+[s]Aumento de dano +<240%..270%>
+[s]20% de chance de Golpe Esmagador
+[s]25% de chance de Abrir Feridas
+[s]HOMEM-URSO +3 [Somente Druidas]
+[s]LICANTROFIA +3 [Somente Druidas]
+[s]Impede a cura dos monstros
+[s]Forca +<25..40>
+[s]Energia +10
+[s]Mana +2 apos cada morte
+[s]INVOCAR URSO PARDO lv13 [5 cargas]
+[?]Livre
+[-]
+[n]Black
+[r]thul
+[r]io
+[r]nef
+[e]clavas
+[e]martelos
+[e]macas
+[l]35
+[s]Aumento de dano +120%
+[s]Taxa de ataque +200
+[s]Dano de gelo 3-14
+[s]Aumento de velocidade de ataque +15%
+[s]Empurra o alvo
+[s]EXPLOSAO DE CADAVERES lv4 [12 cargas]
+[s]40% de chance de Golpe Esmagador
+[s]Dano magico reduzido em 2
+[s]Vitalidade +10
+[?]Livre
+[-]
+[n]Bone
+[r]sol
+[r]um
+[r]um
+[e]peitoral
+[l]47
+[s]15% de chance de lancar ARMADURA DE OSSOS lv10 ao ser atingido
+[s]15% de chance de lancar LANCA DE OSSO lv10 ao atacar
+[s]Todas as habilidades de Necromante +2
+[s]Mana maxima +<100..150>
+[s]Todas as resistencias +30
+[s]Dano reduzido em 7
+[?]Livre
+[-]
+[n]Bramble
+[r]ral
+[r]ohm
+[r]sur
+[r]eth
+[e]peitoral
+[l]61
+[s]Recuperacao de vida +50%
+[s]Dano de habilidades de veneno +100%
+[s]Defesa +300
+[s]Mana maxima +5%
+[s]Regeneracao de mana +15%
+[s]Resistencia maxima ao frio +5%
+[s]Resistencia ao fogo +30%
+[s]Resistencia ao veneno +100%
+[s]Vida +13 apos cada morte
+[s]ESPIRITO DE FARPAS lv13 [33 cargas]
+[?]Livre
+[-]
+[n]Brand
+[r]jah
+[r]lo
+[r]mal
+[r]gul
+[e]arcos
+[e]bestas
+[l]65
+[s]35% de chance de lancar AMPLIFICAR DANO lv14 ao ser atingido
+[s]100% de chance de lancar LANCA DE OSSO lv18 ao atacar
+[s]Aumento de dano +<260%..340%>
+[s]Ignora a defesa do alvo
+[s]Bonus de taxa de ataque +20%
+[s]Dano contra demonios +<280%..330%>
+[s]20% de chance de Golpe Mortal
+[s]Impede a cura dos monstros
+[s]Empurra o alvo
+[s]Dispara flechas ou varetas explosivas
+[?]Battle.net
+[-]
+[n]Breath of the dying
+[r]vex
+[r]hel
+[r]el
+[r]eld
+[r]zod
+[r]eth
+[e]todas as armas
+[l]69
+[s]50% de chance de lancar NOVA DE VENENO lv20 ao matar um inimigo
+[s]Indestrutivel
+[s]Aumento de velocidade de ataque +60%
+[s]Aumento de dano +<350%..400%>
+[s]Dano contra mortos vivos +200%
+[s]Defesa do alvo -25%
+[s]Taxa de ataque +50
+[s]Taxa de ataque contra mortos vivos +50
+[s]Rouba-mana +7%
+[s]Rouba-vida +<12%..15%>
+[s]Impede a cura dos monstros
+[s]Todos os atributos +30
+[s]Iluminacao +1
+[s]Requerimentos -20%
+[?]Livre
+[-]
+[n]Call to arms
+[r]amn
+[r]ral
+[r]mal
+[r]ist
+[r]ohm
+[e]todas as armas
+[l]57
+[s]Todas as habilidades +1
+[s]Aumento de velocidade de ataque +40%
+[s]Aumento de dano +<200%..240%>
+[s]Dano de fogo +5-30
+[s]Rouba-vida +7%
+[s]COMANDO DE GUERRA +<1..6> [Somente Barbaros]
+[s]ORDENS DE GUERRA +<1..6> [Somente Barbaros]
+[s]GRITO DE GUERRA +<1..4> [Somente Barbaros]
+[s]Impede a cura dos monstros
+[s]Recupera vida +12
+[s]30% de chance de conseguir melhores itens magicos
+[?]Livre
+[-]
+[n]Chains of honor
+[r]dol
+[r]um
+[r]ber
+[r]ist
+[e]peitoral
+[l]24
+[s]Todas as habilidades +2
+[s]Dano contra demonios +200%
+[s]Dano contra mortos vivos +100%
+[s]Rouba-vida +8%
+[s]Aumento de defesa +70%
+[s]Forca +20
+[s]Recupera vida +7
+[s]Todas as resistencias +65
+[s]Dano reduzido em 8%
+[s]25% de chance de conseguir melhores itens magicos
+[?]Livre
+[-]
+[n]Chaos
+[r]fal
+[r]ohm
+[r]um
+[e]garras
+[l]57
+[s]9% de chance de lancar ORB CONGELANTE lv11 ao atacar
+[s]11% de chance de lancar __CHARGED BOLT__ lv9 ao atacar
+[s]Aumento de velocidade de ataque +35%
+[s]Aumento de dano +<240%..290%>
+[s]Dano magico +216--471
+[s]25% de chance de Abrir Feridas
+[s]REDEMOINHO +1 [Somente Barbaros]
+[s]Forca +10
+[s]Vida +15 apos cada demonio morto
+[?]Livre
+[-]
+[n]Crescent moon
+[r]shael
+[r]um
+[r]tir
+[e]machados
+[e]armas de haste
+[e]espadas
+[l]47
+[s]10% de chance de lancar CORRENTE DE RAIOS lv17 ao atacar
+[s]7% de chance de lancar CAMPO ESTATICO lv13 ao atacar
+[s]Aumento de velocidade de ataque +20%
+[s]Aumento de dano +<220%..260%>
+[s]Ignora a defesa do alvo
+[s]Resistencia ao raio do inimigo -35%
+[s]25% de chance de Abrir Feridas
+[s]Absorcao Magica +<9..11>
+[s]Mana +2 apos cada morte
+[s]INVOCAR LOBO ESPIRITUAL lv18 [30 cargas]
+[?]Livre
+[-]
+[n]Death
+[r]hel
+[r]el
+[r]vex
+[r]ort
+[r]gul
+[e]espadas
+[e]machados
+[l]55
+[s]100% de chance de lancar CORRENTE DE RAIOS lv44 ao morrer
+[s]25% de chance de lancar __GLACIAL SPIKE__ lv18 ao atacar
+[s]Indestrutivel
+[s]Aumento de dano +<300%..385%>
+[s]Bonus de taxa de ataque +20%
+[s]Taxa de ataque +50
+[s]Dano de raio +1--50
+[s]Rouba-mana +7%
+[s]50% de chance de Golpe Esmagador
+[s]<x*0.5%> de chance de Golpe Mortal [Com base no nivel do personagem]
+[s]Iluminacao +1
+[s]GOLEM DE SANGUE lv22 [15 cargas]
+[s]Requerimentos -20%
+[?]Battle.net
+[-]
+[n]Delirium
+[r]lem
+[r]ist
+[r]io
+[e]elmos
+[l]51
+[s]1% de chance de lancar __DELIRIUM__ ao ser atingido
+[s]10% de chance de lancar EXPLOSAO MENTAL ao ser atingido
+[s]20% de chance de lancar TERROR lv13 ao ser atingido
+[s]33% de chance de lancar CONFUSAO lv18 ao ser atacar
+[s]Todas as habilidades +2
+[s]Defesa +261
+[s]Vitalidade +10
+[s]50% de ouro adicional dos monstros
+[s]25% de chance de conseguir melhores itens magicos
+[s]ATRAIR lv17 [60 cargas]
+[?]Livre
+[-]
+[n]Destruction
+[r]vex
+[r]lo
+[r]ber
+[r]jah
+[r]ko
+[e]armas de haste
+[e]espadas
+[l]65
+[s]23% de chance de lancar VOLCANO lv12 ao atacar
+[s]5% de chance de lancar __MOLTEN BOULDER__ lv23 ao atacar
+[s]100% de chance de lancar METEORO lv45 ao morrer
+[s]15% de chance de lancar NOVA lv22 ao atacar
+[s]Aumento de defesa +350%
+[s]Ignora a defesa do alvo
+[s]Dano magico +100--180
+[s]Rouba-mana +7%
+[s]20% de chance de Golpe Esmagador
+[s]20% de chance de Golpe Mortal
+[s]Impede a cura dos monstros
+[s]Destreza +10
+[?]Battle.net
+[-]
+[n]Doom
+[r]hel
+[r]ohm
+[r]um
+[r]lo
+[r]cham
+[e]machados
+[e]martelos
+[e]armas de haste
+[l]67
+[s]5% de chance de lancar VOLCANO lv18 ao atacar
+[s]Aura GEADA SAGRADA lv12 ao equipar
+[s]Todas as habilidades +2
+[s]Aumento de velocidade de ataque +45%
+[s]Aumento de dano +<280%..320%>
+[s]Resistencia ao frio do inimigo -57%
+[s]20% de chance de Golpe Mortal
+[s]25% de chance de Abrir Feridas
+[s]Impede a cura dos monstros
+[s]Congela o alvo
+[s]Requerimentos -20%
+[?]Livre
+[-]
+[n]Dragon
+[r]sur
+[r]lo
+[r]sol
+[e]peitoral
+[e]escudos
+[l]61
+[s]20% de chance de lancar __VENOM__ lv18 ao ser atingido
+[s]12% de chance de lancar HIDRA lv15 ao atacar
+[s]Aura FOGO SAGRADO lv14 ao equipar
+[s]Defesa +360
+[s]Defesa contra projeteis +230
+[s]Todos os atributos +<3..5>
+[s]Forca +<x*0.375> [Com base no nivel do personagem]
+[s]Resistencia maxima ao raio +5%
+[s]Dano reduzido em 7
+[s]Mana maxima +5% [runeword em Peitoral]
+[s]Mana +50 [runeword em Escudo]
+[?]Battle.net
+[-]
+[n]Dream
+[r]io
+[r]jah
+[r]pul
+[e]elmos
+[e]escudos
+[l]65
+[s]10% de chance de lancar CONFUSAO lv15 ao ser atingido
+[s]Aura CHOQUE SAGRADO lv15 ao equipar
+[s]Recuperacao de vida +<20%..30%>
+[s]Aumento de defesa +30%
+[s]Defesa +<150..220>
+[s]Vitalidade +10
+[s]Aumento de vida maxima +5% [runeword em Elmo]
+[s]Vida +50 [runeword em Escudo]
+[s]Mana +<x*0.625> [Com base no nivel do personagem]
+[s]Todas as resistencias +<5..20>
+[s]<12%..25%> de chance de conseguir melhores itens magicos
+[?]Battle.net
+[-]
+[n]Duress
+[r]shael
+[r]um
+[r]thul
+[e]peitoral
+[l]47
+[s]Aumento de defesa +<150%..200%>
+[s]Recuperacao de vida +15%
+[s]Resistencia ao fogo +15%
+[s]Resistencia ao frio +45%
+[s]Resistencia ao raio +15%
+[s]Resistencia ao veneno +15%
+[s]Aumento de dano +<10%..25%>
+[s]Dano de gelo +37--133
+[s]15% de chance de Golpe Esmagador
+[s]33% de chance de Abrir Feridas
+[s]Drenagem de vigor mais lento -20%
+[?]Livre
+[-]
+[n]Edge
+[r]tir
+[r]tal
+[r]amn
+[e]arcos
+[e]bestas
+[l]25
+[s]Aura ESPINHOS lv15 ao equipar
+[s]Aumento de velocidade de ataque +35%
+[s]Dano contra demonios +<320%..380%>
+[s]Dano contra mortos vivos +280%
+[s]+75 de dano de veneno por 5 segundos
+[s]Rouba-vida +7%
+[s]Impede a cura dos monstros
+[s]Todos os atributos +<5..10>
+[s]Mana +2 apos cada morte
+[s]Reduz o preco de todos os produtos a venda em 15%
+[?]Battle.net
+[-]
+[n]Enigma
+[r]jah
+[r]ith
+[r]ber
+[e]peitoral
+[l]65
+[s]Todas as habilidades +2
+[s]Velocidade de andar/correr +45%
+[s]TELEPORTE +1 [Somente Feiticeiras]
+[s]Defesa +<750..775>
+[s]Forca +<x*0.75> [Com base no nivel do personagem]
+[s]Aumenta vida maxima +5%
+[s]Dano reduzido em 8%
+[s]Vida +14 apos cada morte
+[s]15% do dano recebido transferido para a mana
+[s]<x*1%> de chance de conseguir melhores itens magicos [Com base no nivel do personagem]
+[?]Livre
+[-]
+[n]Enlightenment
+[r]pur
+[r]ral
+[r]sol
+[e]peitoral
+[l]45
+[s]5% de chance de lancar __BLAZE__ ao ser atingido
+[s]15% de chance de lancar BOLA DE FOGO ao atacar
+[s]Todas as habilidades de feiticeira +2
+[s]__WARMTH__ +1 [Somente Feiticeiras]
+[s]Aumento de defesa +30%
+[s]Resistencia ao fogo +30%
+[s]Dano reduzido em 7
+[?]Livre
+[-]
+[n]Eternity
+[r]amn
+[r]ber
+[r]ist
+[r]sol
+[r]sur
+[e]todas as armas corpo-a-corpo
+[l]63
+[s]Indestrutivel
+[s]Aumento de defesa +276%
+[s]Dano minimo +9
+[s]Rouba-vida +7%
+[s]20% de chance de Golpe Esmagador
+[s]Cega o alvo
+[s]Deixa o alvo lento +33%
+[s]Recupera mana +16%
+[s]Nao pode ser congelado
+[s]30% de chance de conseguir melhores itens magicos
+[s]REVIVER lv8 [88 cargas]
+[?]Livre
+[-]
+[n]Exile
+[r]vex
+[r]ohm
+[r]ist
+[r]dol
+[e]escudos de paladino
+[l]57
+[s]15% de chance de lancar TORNEIRA DA VIDA ao atacar
+[s]Aura DESAFIO lv<13..16> ao equipar
+[s]Habilidades AURAS OFENSIVAS +2 [Somente Paladinos]
+[s]Aumento na velocidade de bloqueio +30%
+[s]Congela o alvo
+[s]Aumento de defesa +<220%..260%>
+[s]Recupera vida +7
+[s]Resistencia maxima ao gelo +5%
+[s]Resistencia maxima ao fogo +5%
+[s]25% de chance de conseguir melhores itens magicos
+[s]Conserta 1 de durabilidade a cada 4 segundos
+[?]Livre
+[-]
+[n]Faith
+[r]ohm
+[r]jah
+[r]lem
+[r]eld
+[e]arcos
+[e]bestas
+[l]65
+[s]Aura FANATISMO lv<12..15> ao equipar
+[s]Todas as habilidades +<1..2>
+[s]Aumento de dano +330%
+[s]Ignora a defesa do alvo
+[s]Bonus de taxa de ataque +300%
+[s]Dano contra mortos vivos +75%
+[s]Taxa de ataque contra mortos vivos +50
+[s]Dano de fogo +120
+[s]Todas as resistencias +15
+[s]<<<10% de chance de reanimar o alvo>>>
+[s]75% de ouro adicional dos monstros
+[?]Battle.net
+[-]
+[n]Famine
+[r]fal
+[r]ohm
+[r]ort
+[r]jah
+[e]machados
+[e]martelos
+[l]65
+[s]Aumento de velocidade de ataque +30%
+[s]Aumento de dano +<320%..370%>
+[s]Ignora a defesa do alvo
+[s]Dano magico +180--200
+[s]Dano de fogo +50--200
+[s]Dano de raio +51--250
+[s]Dano de gelo +50--200
+[s]Rouba-vda +12%
+[s]Impede a cura dos monstros
+[s]Forca +10
+[?]
+[-]
+[n]Fortitude
+[r]el
+[r]sol
+[r]dol
+[r]lo
+[e]todas as armas
+[e]peitoral
+[l]59
+[s]20% de chance de lancar __CHILLING ARMOR__ lv15 ao ser atingido
+[s]Velocidade de lancamento de magias +25%
+[s]Aumento de dano +300%
+[s]Iluminacao +1
+[s]12% do dano recebido transferido para a mana
+[s]Todas as resistencias +<25..30>
+[s]Aumento de defesa +200%
+[s]Vida +<x*1..x*1.5> [Com base no nivel do personagem]
+[s]Dano minimo +9 [runeword em Todas as Armas]
+[s]Taxa de ataque +50 [runeword em Todas as Armas]
+[s]20% de chance de Golpe Mortal [runeword em Todas as Armas]
+[s]Aterroriza o alvo +25% [runeword em Todas as Armas]
+[s]Defesa +15 [runeword em Peitoral]
+[s]Recupera vida +7 [runeword em Peitoral]
+[s]Resistencia maxima ao raio +5% [runeword em Peitoral]
+[s]Dano reduzido em 7 [runeword em Peitoral]
+[?]Battle.net
+[-]
+[n]Fury
+[r]jah
+[r]gul
+[r]eth
+[e]Todas as armas corpo-a-corpo
+[l]65
+[s]Aumento de dano +209%
+[s]Aumento de velocidade de ataque +40%
+[s]Impede a cura dos monstros
+[s]66% de chance de Abrir Feridas
+[s]33% de chance de Golpe Mortal
+[s]Ignora a defesa do alvo
+[s]Defesa do alvo -25%
+[s]Taxa de ataque +20%
+[s]Rouba-vida +6%
+[s]FRENESI +5 [Somente Barbaros]
+[?]Livre
+[-]
+[n]Gloom
+[r]fal
+[r]um
+[r]pul
+[e]peitoral
+[l]47
+[s]15% de chance de lancar __DIM VISION__ lv3 ao ser atingido
+[s]Recuperacao de vida +10%
+[s]Aumento de defesa +<200%..260%>
+[s]Forca +10
+[s]Todas as resistencias +45
+[s]Metade da duracao do congelamento
+[s]5% do dano recebido transferido para a mana
+[s]Iluminacao -3
+[?]Livre
+[-]
+[n]Grief
+[r]eth
+[r]tir
+[r]lo
+[r]mal
+[r]ral
+[e]espadas
+[e]machados
+[l]59
+[s]35% de chance de lancar __VENOM__ lv15 ao atacar
+[s]Aumento de velocidade de ataque +<30%..40%>
+[s]Dano +<340...400>
+[s]Ignora a defesa do alvo
+[s]Defesa do alvo -25%
+[s]Dano contra demonios +<x*1,875> [Com base no nivel do personagem]
+[s]Dano de fogo +5--30
+[s]Resistencia ao veneno do inimigo -<20%..25%>
+[s]20% de chance de Golpe Mortal
+[s]Impede a cura dos monstros
+[s]Mana +2 apos cada morte
+[s]Vida +<10..15> apos cada morte
+[?]Battle.net
+[-]
+[n]Hand of justice
+[r]sur
+[r]cham
+[r]amn
+[r]lo
+[e]todas as armas
+[l]67
+[s]100% de chance de lancar __BLAZE__ lv36 ao passar de nivel
+[s]100% de chance de lancar METEORO lv48 ao morrer
+[s]Aura FOGO SAGRADO lv16 ao equipar
+[s]Aumento de velocidade de ataque +33%
+[s]Aumento de dano +<280%..330%>
+[s]Ignora a defesa do alvo
+[s]Rouba-vida +7%
+[s]Resistencia ao fogo do inimigo -20%
+[s]20% de chance de Golpe Mortal
+[s]Cega o alvo
+[s]Congela o alvo
+[?]Livre
+[-]
+[n]Harmony
+[r]tir
+[r]ith
+[r]sol
+[r]ko
+[e]arcos
+[e]bestas
+[l]39
+[s]Aura VIGOR lv10 ao equipar
+[s]Aumento de dano +<200%..275%>
+[s]Dano minimo +9
+[s]Dano maximo +9
+[s]Dano de raio +55--160
+[s]Dano de frio +55--160
+[s]Dano de fogo +55--160
+[s]VALQUIRIA +<2..6> [Somente amazonas]
+[s]Destreza +10
+[s]Regenera mana +20%
+[s]Mana +2 apos cada morte
+[s]Iluminacao +2
+[s]REVIVER lv20 [25 cargas]
+[?]Battle.net
+[-]
+[n]Heart of the oak
+[r]ko
+[r]vex
+[r]pul
+[r]thul
+[e]bastoes
+[e]macas
+[l]55
+[s]Todas as habilidades +3
+[s]Velocidade de lancamento de magias +40%
+[s]Dano contra demonios +75%
+[s]Taxa de ataque contra demonios +100
+[s]Dano de frio +3--14
+[s]Rouba-mana +7%
+[s]Destreza +10
+[s]Recupera vida +20
+[s]Aumenta mana maxima +15%
+[s]Todas as resistencias +<30..40>
+[s]SABIO CARVALHO lv4 [25 cargas]
+[s]CORVO lv14 [60 cargas]
+[s]Dano contra mortos vivos +50%
+[?]Livre
+[-]
+[n]Holy thunder
+[r]eth
+[r]ral
+[r]ort
+[r]tal
+[e]cetros
+[l]23
+[s]CORRENTE DE RAIOS lv7 [60 cargas]
+[s]Defesa do alvo -25%
+[s]Aumento de dano +60%
+[s]+75 de dano de veneno por 7 segundos
+[s]Resistencia maxima ao raio +5%
+[s]Resistencia ao raio +60%
+[s]Dano de raio +21--110
+[s]Dano de fogo +5--30
+[s]CHOQUE SAGRADO +3 [Somente Paladinos]
+[s]Dano contra mortos vivos +150%
+[?]Livre
+[-]
+[n]Honor
+[r]amn
+[r]el
+[r]ith
+[r]tir
+[r]sol
+[e]todas as armas corpo-a-corpo
+[l]27
+[s]Aumento de dano +160%
+[s]Taxa de ataque +250
+[s]Dano minimo +9
+[s]Dano maximo +9
+[s]25% de chance de Golpe Mortal
+[s]Rouba-vida +7%
+[s]Todas as habilidades +1
+[s]Mana +2 apos cada morte
+[s]Iluminacao +1
+[s]Recupera vida +10
+[s]Forca +10
+[?]Livre
+[-]
+[n]Ice
+[r]amn
+[r]shael
+[r]jah
+[r]lo
+[e]arcos
+[e]bestas
+[l]65
+[s]100% de chance de lancar NEVASCA lv40 ao passar de nivel
+[s]25% de chance de lancar NOVA CONGELANTE lv22 ao atacar
+[s]Aura GEADA SAGRADA lv18 ao equipar
+[s]Aumento de velocidade de ataque +20%
+[s]Aumento de dano +<140%..210%>
+[s]Ignora a defesa do alvo
+[s]Dano de habilidades de frio +<25%..30%>
+[s]Resistencia ao frio do inimigo -20%
+[s]Rouba-vida +7%
+[s]20% de chance de Golpe Mortal
+[s]<x*3.125%> de ouro adicional dos monstros [Com base no nivel do personagem]
+[?]Battle.net
+[-]
+[n]Infinity
+[r]ber
+[r]mal
+[r]ber
+[r]ist
+[e]armas de haste
+[l]63
+[s]50% de chance de lancar CORRENTE DE RAIOS lv20 ao matar um inimigo
+[s]Aura CONVICCAO lv12 ao equipar
+[s]Velocidade de andar/correr +35%
+[s]Aumento de dano +<255%..325%>
+[s]Resistencia ao raio do inimigo -<45%..55%>
+[s]40% de chance de Golpe Esmagador
+[s]Impede a cura dos monstros
+[s]Vitalidade +<x*0.5> [Com base no nivel do personagem]
+[s]30% de chance de conseguir melhores itens magicos
+[s]ARMADURA CICLONE lv21 [30 cargas]
+[?]Battle.net
+[-]
+[n]Insight
+[r]ral
+[r]tir
+[r]tal
+[r]sol
+[e]armas de haste
+[e]bastoes
+[l]27
+[s]Aura MEDITACAO lv<10..17> ao equipar
+[s]Velocidade de lancamento de magias +35%
+[s]Dano minimo +9
+[s]Bonus de taxa de ataque +<180%..250%>
+[s]Dano de fogo +5--30
+[s]+75 de dano de veneno por 5 segundos
+[s]ATAQUE CRITICO +<1..6>
+[s]Todos os atributos +5
+[s]Mana +2 apos cada morte
+[s]23% de chance de conseguir melhores itens magicos
+[?]Battle.net
+[-]
+[n]King's Grace
+[r]amn
+[r]ral
+[r]thul
+[e]espadas
+[e]cetros
+[l]25
+[s]Aumento de dano +100%
+[s]Taxa de ataque +150
+[s]Taxa de ataque contra mortos vivos +100
+[s]Dano contra mortos vivos +150%
+[s]Taxa de ataque contra demonios +100
+[s]Dano contra demonios +200%
+[s]Rouba-vida +7%
+[s]Dano de gelo +3--14
+[s]Dano de fogo +5--30
+[?]Livre
+[-]
+[n]Kingslayer
+[r]mal
+[r]um
+[r]gul
+[r]fal
+[e]espadas
+[e]machados
+[l]53
+[s]Aumento de velocidade de ataque +30%
+[s]Aumento de dano +<230%..270%>
+[s]Defesa do alvo -25%
+[s]Bonus de taxa de ataque +20%
+[s]33% de chance de Golpe Esmagador
+[s]50% de chance de Abrir Feridas
+[s]VINGANCA +1 [Somente Paladinos]
+[s]Impede a cura dos monstros
+[s]Forca +10
+[s]40% de ouro adicional dos monstros
+[?]Livre
+[-]
+[n]Last wish
+[r]jah
+[r]mal
+[r]jah
+[r]sur
+[r]jah
+[r]ber
+[e]machados
+[e]martelos
+[e]espadas
+[l]65
+[s]6% de chance de lancar __FADE__ lv11 ao ser atingido
+[s]10% de chance de lancar TORNEIRA DA VIDA lv18 ao atacar
+[s]20% de chance de lancar __CHARGED BOLT__ lv20 ao atacar
+[s]Aura PODER lv17 ao equipar
+[s]Aumento de dano +<330%..375%>
+[s]Ignora a defesa do alvo
+[s]<60%..70%> de chance de Golpe Esmagador
+[s]Impede a cura dos monstros
+[s]Cega o alvo
+[s]<x*0.5%> de chance de obter melhores itens magicos [Com base no nivel do personagem]
+[?]Battle.net
+[-]
+[n]Lawbringer
+[r]amn
+[r]lem
+[r]ko
+[e]martelos
+[e]cetros
+[e]espadas
+[l]43
+[s]20% de chance de lancar __DECREPIFY__ lv15 ao atacar
+[s]Aura SANTUARIO lv<16..18> ao equipar
+[s]Defesa do alvo -50%
+[s]Dano de fogo +150--210
+[s]Dano de frio +130--180
+[s]Rouba-vida +7%
+[s]<<<slain monsters rest in peace>>>
+[s]Defesa contra projeteis +<200..250>
+[s]Destreza +10
+[s]75% de ouro adicional dos monstros
+[?]Battle.net
+[-]
+[n]Leaf
+[r]tir
+[r]ral
+[e]bastoes
+[l]19
+[s]Dano de fogo +5--30
+[s]Mana +2 apos cada morte
+[s]Habilidades de fogo +3
+[s]Resistencia ao frio +33%
+[s]INFERNO +3 [Somente Feiticeiras]
+[s]__FIRE BOLT__ +3 [Somente Feiticeiras]
+[s]__WARMTH__ +3 [Somente Feiticeiras]
+[?]Livre
+[-]
+[n]Lionheart
+[r]hel
+[r]lum
+[r]fal
+[e]peitoral
+[l]41
+[s]Aumento de dano +20%
+[s]Todas as resistencias +30%
+[s]Vida +50
+[s]Energia +10
+[s]Vitalidade +20
+[s]Destreza +15
+[s]Forca +25
+[s]Requerimentos -15%
+[?]Livre
+[-]
+[n]Lore
+[r]ort
+[r]sol
+[e]elmos
+[l]27
+[s]Todas as habilidades +1
+[s]Mana +2 apos cada morte
+[s]Dano reduzido em 7
+[s]Resistencia ao raio +30%
+[s]Energia +10
+[s]Iluminacao +2
+[?]Livre
+[-]
+[n]Malice
+[r]ith
+[r]el
+[r]eth
+[e]todas as armas corpo-a-corpo
+[l]15
+[s]Aumento de dano +33%
+[s]Dano maximo +9
+[s]Taxa de ataque +50
+[s]100% de chance de Abrir Feridas
+[s]Defesa do monstro -100 por acerto
+[s]Impede a cura dos monstros
+[s]Defesa do alvo -25%
+[s]Drena vida -5
+[?]Livre
+[-]
+[n]Melody
+[r]shael
+[r]ko
+[r]nef
+[e]arcos
+[e]bestas
+[l]39
+[s]Dano contra mortos vivos +300%
+[s]Aumento de dano +50%
+[s]Destreza +10
+[s]Aumento na velocidade de ataque +20%
+[s]Empurra o alvo
+[s]Habilidades ARCO E BESTA +3 [Somente Amazonas]
+[s]__SLOW MISSILES__ +3 [Somente Amazonas]
+[s]__DODGE__ +3 [Somente Amazonas]
+[s]ATAQUE CRITICO +3
+[?]Livre
+[-]
+[n]Memory
+[r]lum
+[r]io
+[r]sol
+[r]eth
+[e]bastoes
+[l]37
+[s]Defesa do alvo -25%
+[s]Velocidade de lancamento de magias +33%
+[s]Todas as habilidades de Feiticeira +3
+[s]Aumento de defesa +50%
+[s]Dano magico reduzido em 7
+[s]Mana maxima +20%
+[s]Dano minimo +9
+[s]Energia +10
+[s]Vitalidade +10
+[s]CAMPO ESTATICO +2 [Somente Feiticeiras]
+[s]ESCUDO DE ENERGIA +2 [Somente Feiticeiras]
+[?]Livre
+[-]
+[n]Myth
+[r]hel
+[r]amn
+[r]nef
+[e]peitoral
+[l]25
+[s]3% de chance de lancar __HOWL__ ao ser atingido
+[s]10% de chance de lancar INTIMIDAR lv1 ao atacar
+[s]Todas as habilidades de Barbaro +2
+[s]Defesa contra projeteis +30
+[s]Recupera vida +10
+[s]Atacantes recebem 14 de dano
+[s]Requerimentos -15%
+[?]Livre
+[-]
+[n]Nadir
+[r]nef
+[r]tir
+[e]elmos
+[l]13
+[s]MANTO DAS SOMBRAS lv13 [9 cargas]
+[s]Aumento de defesa +50%
+[s]Mana +2 apos cada morte
+[s]Iluminacao -3
+[s]Defesa contra projeteis +30
+[s]Defesa +10
+[s]Forca +5
+[s]-33% de ouro adicional dos monstros
+[?]Livre
+[-]
+[n]Oath
+[r]shael
+[r]pul
+[r]mal
+[r]lum
+[e]machados
+[e]macas
+[e]espadas
+[l]59
+[s]30% de chance de lancar ESPIRITO DE OSSO lv20 ao atacar
+[s]Indestrutivel
+[s]Aumento na velocidade de ataque +50%
+[s]Aumento de dano +<210%..340%>
+[s]Dano contra demonios +75%
+[s]Taxa de ataque contra demonios +100
+[s]Impede a cura dos monstros
+[s]Energia +10
+[s]Absorcao magica +<10..15>
+[s]CORACAO DE CARCAJU lv16 [20 cargas]
+[s]GOLEM DE FERRO lv17 [14 cargas]
+[?]Battle.net
+[-]
+[n]Obedience
+[r]hel
+[r]ko
+[r]thul
+[r]eth
+[r]fal
+[e]armas de haste
+[l]41
+[s]30% de chance de lancar __ENCHANT__ lv21 ao matar um inimigo
+[s]Recuperacao de vida +40%
+[s]Aumento de dano +370%
+[s]Defesa do alvo -25%
+[s]Dano de frio +3--14
+[s]Resistencia ao fogo do inimigo -25%
+[s]40% de chance de Golpe Esmagador
+[s]Defesa +<200..300>
+[s]Forca +10
+[s]Destreza +10
+[s]Todas as Resistencias +<20..30>
+[s]Requerimentos -20%
+[?]Battle.net
+[-]
+[n]Passion
+[r]dol
+[r]ort
+[r]eld
+[r]lem
+[e]todas as armas
+[l]43
+[s]Aumento na velocidade de ataque +25%
+[s]Aumento de dano +<160%..210%>
+[s]Bonus de taxa de ataque +<50%..80%>
+[s]Dano contra mortos vivos +75%
+[s]Taxa de ataque contra mortos vivos +50
+[s]Dano de raio +1--50
+[s]__BERSERK__ +1 [Somente Barbaros]
+[s]ZELO +1 [Somente Paladinos]
+[s]Cega o alvo +10
+[s]Aterroriza o alvo +25%
+[s]75% de ouro adicional dos monstros
+[s]CORACAO DE CARCAJU lv3 [12 cargas]
+[?]Livre
+[-]
+[n]Peace
+[r]shael
+[r]thul
+[r]amn
+[e]peitoral
+[l]29
+[s]4% de chance de lancar __SLOW MISSILES__ lv5 ao ser atingido
+[s]2% de chance de lancar VALQUIRIA lv15 ao atacar
+[s]Todas as habilidades de Amazona +2
+[s]Recuperacao de vida +20%
+[s]ATAQUE CRITICO +2
+[s]Resistencia ao frio +30%
+[s]Atacantes recebem 14 de dano
+[?]Livre
+[-]
+[n]Phoenix
+[r]vex
+[r]vex
+[r]lo
+[r]jah
+[e]todas as armas
+[e]escudos
+[l]65
+[s]100% de chance de lancar __BLAZE__ lv40 ao passar de nivel
+[s]40% de chance de lancar TEMPESTADE DE FOGO lv22 ao atacar
+[s]Aura REDENCAO lv<10..15> ao equipar
+[s]Resistencia ao fogo do inimigo -28%
+[s]Absorve dano de fogo +<15..21>
+[s]Defesa contra projeteis +<350..400>
+[s]Aumento de dano +<350%..400%>
+[s]Ignora a defesa do alvo [runeword em Todas as armas]
+[s]Rouba-mana +14% [runeword em Todas as armas]
+[s]20% de chance de Golpe Mortal [runeword em Todas as armas]
+[s]Vida +50 [runeword em Escudos]
+[s]Resistencia maxima ao raio +5% [runeword em Escudos]
+[s]Resistencia maxima ao fogo +10% [runeword em Escudos]
+[?]Battle.net
+[-]
+[n]Pride
+[r]cham
+[r]sur
+[r]io
+[r]lo
+[e]armas de haste
+[l]67
+[s]25% de chance de lancar MURO DE FOGO lv17 ao ser atingido
+[s]Aura CONCENTRACAO lv<16..20> ao equipar
+[s]Bonus para a taxa de ataque +<260%..300%>
+[s]Dano contra demonios +<x*1%> [Com base no nivel do personagem]
+[s]Dano de raio +50--280
+[s]20% de chance de Golpe Mortal
+[s]Cega o alvo
+[s]Congela o alvo +3
+[s]Vitalidade +10
+[s]Recupera vida +8
+[s]<x*1,875%> de ouro adicional dos monstros [Com base no nivel do personagem]
+[?]Battle.net
+[-]
+[n]Principle
+[r]ral
+[r]gul
+[r]eld
+[e]peitoral
+[l]55
+[s]100% de chance de lancar FLECHA SAGRADA lv5 ao atacar
+[s]Todas as habilidades de Paladino +2
+[s]Drenagem de vigor mais lento +15%
+[s]Resistencia maxima ao veneno +5%
+[s]Resistencia ao fogo +30%
+[?]Livre
+[-]
+[n]Prudence
+[r]mal
+[r]tir
+[e]peitoral
+[l]49
+[s]Recuperacao de vida +25%
+[s]Aumento de defesa +<140%..170%>
+[s]Todas as resistencias +<25..35>
+[s]Dano reduzido em 3
+[s]Dano magico reduzido em 17
+[s]Mana +2 apos cada morte
+[s]Iluminacao +1
+[s]Conserta 1 de durabilidade a cada 4 segundos
+[?]Livre
+[-]
+[n]Radiance
+[r]nef
+[r]sol
+[r]ith
+[e]elmos
+[l]27
+[s]15% do dano recebido transferido para a mana
+[s]Aumento de dano +75%
+[s]Dano magico reduzido em 3
+[s]Dano reduzido em 7
+[s]Defesa contra projeteis +30
+[s]Mana +33
+[s]Energia +10
+[s]Vitalidade +10
+[s]Iluminacao +5
+[?]Livre
+[-]
+[n]Rain
+[r]ort
+[r]mal
+[r]ith
+[e]peitoral
+[l]49
+[s]5% de chance de lancar ARMADURA CICLONE lv15 ao ser atingido
+[s]5% de chance de lancar __TWISTER__ lv15 ao ser atingido
+[s]Todas as habilidades de Druida +2
+[s]Mana +<100..150>
+[s]Resistencia ao raio +30%
+[s]Dano magico reduzido em 7
+[s]15% do dano recebido transferido para a mana
+[?]Livre
+[-]
+[n]Rhyme
+[r]shael
+[r]eth
+[e]escudos
+[l]29
+[s]Nao pode ser congelado
+[s]Aumento na velocidade de bloqueio +40%
+[s]Aumento na chance de bloqueio +20%
+[s]Regenera mana +15%
+[s]Todas as resistencias +25%
+[s]25% de chance de conseguir melhores itens magicos
+[s]50% de ouro adicional dos monstros
+[?]Livre
+[-]
+[n]Rift
+[r]hel
+[r]ko
+[r]lem
+[r]gul
+[e]armas de haste
+[e]cetros
+[l]53
+[s]20% de chance de lancar TORNADO lv16 ao atacar
+[s]16% de chance de lancar ORBE CONGELANTE lv21 ao atacar
+[s]Bonus de taxa de ataque +20%
+[s]Dano magico +160--250
+[s]Dano de fogo +60--180
+[s]Todas os atributos +<5..10>
+[s]Destreza +10
+[s]38% do dano recebido transferido para a mana
+[s]75% de ouro adicional dos monstros
+[s]DAMA DE FERRO lv15 [40 cargas]
+[s]Requerimentos -20%
+[?]Battle.net
+[-]
+[n]Sanctuary
+[r]ko
+[r]ko
+[r]mal
+[e]escudos
+[l]49
+[s]Recuperacao de vida +20%
+[s]Aumento na velocidade de bloqueio +20%
+[s]Aumento na chance de bloqueio +20%
+[s]Aumento de defesa +<130%..160%>
+[s]Defesa contra projeteis +250
+[s]Destreza +20
+[s]Todas as resistencias +<50..70>
+[s]Dano magico reduzido em 7
+[s]__SLOW MISSILES__ lv12 [60 cargas]
+[?]Livre
+[-]
+[n]Silence
+[r]dol
+[r]eld
+[r]hel
+[r]ist
+[r]itr
+[r]vex
+[e]todas as armas
+[l]55
+[s]Aumento de dano +200%
+[s]Dano contra mortos vivos +175%
+[s]Taxa de ataque contra mortos vivos +50
+[s]Rouba-mana +11%
+[s]Cega o alvo
+[s]Recuperacao de vida +20%
+[s]Todas as habilidades +2
+[s]Todas as resistencias +75
+[s]Aumento na velocidade de ataque +20%
+[s]Mana +2 apos cada morte
+[s]Aterroriza o alvo +25%
+[s]30% de chance de conseguir melhores itens magicos
+[s]Requerimentos -20%
+[?]Livre
+[-]
+[n]Smoke
+[r]nef
+[r]lum
+[e]peitoral
+[l]37
+[s]ENFRAQUECER lv6 [18 cargas]
+[s]Recuperacao de vida +20%
+[s]Iluminacao -1
+[s]Aumento de defesa +75%
+[s]Todas as resistencias +50%
+[s]Defesa contra projeteis +280
+[s]Energia +10
+[?]Livre
+[-]
+[n]Spirit
+[r]tal
+[r]thul
+[r]ort
+[r]amn
+[e]escudos
+[e]espadas
+[l]25
+[s]Todas as habilidades +2
+[s]Velocidade de lancamento de magias +<25%..35%>
+[s]Recuperacao de vida +55%
+[s]Vitalidade +22
+[s]Defesa contra projeteis +250
+[s]Mana +<89..112>
+[s]Absorcao magica +<3..8>
+[s]Resistencia ao frio +35 [runeword em Escudos]
+[s]Resistencia ao raio +35% [runeword em Escudos]
+[s]Resistencia ao veneno +35% [runeword em Escudos]
+[s]Atacantes recebem 14 de dano [runeword em Escudos]
+[s]Dano de raio +1--50 [runeword em Espadas]
+[s]Dano de frio +3--14 [runeword em Espadas]
+[s]+75 de dano de veneno por 5 segundos [runeword em Espadas]
+[s]Rouba-vida +7% [runeword em Espadas]
+[?]Battle.net
+[-]
+[n]Splendor
+[r]eth
+[r]lum
+[e]escudos
+[l]37
+[s]Todas as habilidades +1
+[s]Velocidade de lancamento de magias +10%
+[s]Aumento na velocidade de bloqueio +20%
+[s]Aumento de defesa +<60%..100%>
+[s]Energia +10
+[s]Regenera mana +15%
+[s]50% de ouro adicional dos monstros
+[s]20% de chance de conseguir melhores itens magicos
+[s]Iluminacao +3
+[?]Livre
+[-]
+[n]Stealth
+[r]tal
+[r]eth
+[e]peitoral
+[l]17
+[s]Velocidade de lancamento de magias +25%
+[s]Recuperacao de vida +25%
+[s]Velocidade de andar/correr +25%
+[s]Dano magico reduzido em 3
+[s]Regenera mana +15%
+[s]Resistencia ao veneno +30%
+[s]Vigor +15%
+[s]Destreza +6
+[?]Livre
+[-]
+[n]Steel
+[r]tir
+[r]el
+[e]espadas
+[e]machados
+[e]macas
+[l]13
+[s]Aumento de dano +20%
+[s]Dano minimo +3
+[s]Dano maximo +3
+[s]Taxa de ataque +50
+[s]50% de chance de Abrir Feridas
+[s]Iluminacao +1
+[s]Mana +2 apos cada morte
+[s]Aumento na velocidade de ataque +25%
+[?]Livre
+[-]
+[n]Stone
+[r]shael
+[r]um
+[r]pul
+[r]lum
+[e]peitoral
+[l]47
+[s]Recuperacao de vida +60%
+[s]Aumento de defesa +<250%..290%>
+[s]Defesa contra projeteis +300
+[s]Forca +16
+[s]Vitalidade +16
+[s]Energia +10
+[s]Todas as resistencias +15
+[s]__MOLTEN BOULDER__ lv16 [80 cargas]
+[s]GOLEM DE BARRO lv16 [16 cargas]
+[?]Livre
+[-]
+[n]Strength
+[r]amn
+[r]tir
+[e]todas as armas corpo-a-corpo
+[l]25
+[s]Aumento de dano +35%
+[s]25% de chance de Golpe Esmagador
+[s]Rouba-vida +7%
+[s]Mana +2 apos cada morte
+[s]Vitalidade +10
+[s]Forca +20
+[?]Livre
+[-]
+[n]Treachery
+[r]shael
+[r]thul
+[r]lem
+[e]peitoral
+[l]43
+[s]5% de chance de lancar __FADE__ lv15 ao ser atingido
+[s]25% de chance de lancar __VENOM__ lv15 ao atacar
+[s]Todas as habilidades de Assasina +2
+[s]Aumento na velocidade de ataque +45%
+[s]Recuperacao de vida +20%
+[s]Resistencia ao frio +30%
+[s]50% de ouro adicional dos monstros
+[?]Livre
+[-]
+[n]Venom
+[r]tal
+[r]dol
+[r]mal
+[e]todas as armas
+[l]49
+[s]+288 de dano de veneno por 6 segundos
+[s]Aterroriza o alvo +25%
+[s]Impede a cura dos monstros
+[s]Ignora a defesa do alvo
+[s]Rouba-mana +7%
+[s]EXPLOSAO DE VENENO lv15 [27 cargas]
+[s]NOVA DE VENENO lv13 [11 cargas]
+[?]Livre
+[-]
+[n]Voice of reason
+[r]lem
+[r]ko
+[r]el
+[r]eld
+[e]macas
+[e]espadas
+[l]43
+[s]15% de chance de lancar ORBE CONGELANTE lv13 ao atacar
+[s]18% de chance de lancar EXPLOSAO DE GELO lv20 ao atacar
+[s]Taxa de ataque +50
+[s]Dano contra demonios +<220%..350%>
+[s]Dano contra mortos vivos +<355%..375%>
+[s]Taxa de ataque contra mortos vivos +50
+[s]Dano de frio +100--220
+[s]Resistencia ao frio do inimigo -24%
+[s]Destreza +10
+[s]Nao pode ser congelado
+[s]75% de ouro adicional dos monstros
+[s]Iluminacao +1
+[?]Battle.net
+[-]
+[n]Wealth
+[r]lem
+[r]ko
+[r]tir
+[e]peitoral
+[l]43
+[s]100% de chance de conseguir melhores itens magicos
+[s]300% de ouro adicional dos monstros
+[s]Mana +2 apos cada morte
+[s]Destreza +10
+[?]Livre
+[-]
+[n]White
+[r]dol
+[r]io
+[e]varinhas
+[l]35
+[s]Aterroriza o alvo +25%
+[s]Velocidade de lancamento de magias +20%
+[s]Dano magico reduzido em 4
+[s]Mana +13
+[s]Vitalidade +10
+[s]Habilidades VENENO E OSSO +3 [Somente Necromantes]
+[s]DOMINIO DO ESQUELETO +4 [Somente Necromantes]
+[s]LANCA DE OSSO +2 [Somente Necromantes]
+[s]ARMADURA DE OSSO +3 [Somente Necromantes]
+[?]Livre
+[-]
+[n]Wind
+[r]sur
+[r]el
+[e]todas as armas corpo-a-corpo
+[l]61
+[s]10% de chance de lancar TORNADO lv9 ao atacar
+[s]Velocidade de andar/correr +20%
+[s]Aumento na velocidade de ataque +40%
+[s]Recuperacao de vida +15%
+[s]Aumento de dano +<120%..160%>
+[s]Defesa do alvo -50%
+[s]Taxa de ataque +50
+[s]Cega o alvo
+[s]Iluminacao +1
+[s]__TWISTER__ lv13 [127 cargas]
+[?]Livre
+[-]
+[n]Wrath
+[r]pul
+[r]lum
+[r]ber
+[r]mal
+[e]arcos
+[e]bestas
+[l]63
+[s]30% de chance de lancar __DECREPIFY__ lv1 ao atacar
+[s]5% de chance de lancar TORNEIRA DA VIDA lv10 ao atacar
+[s]Dano contra demonios +375%
+[s]Taxa de ataque contra demonios +100
+[s]Dano contra mortos vivos +<250%..300%>
+[s]Dano magico +85--120
+[s]Dano de raio +41--240
+[s]20% de chance de Golpe Esmagador
+[s]Impede a cura dos monstros
+[s]Energia +10
+[s]Nao pode ser congelado
+[?]Battle.net
+[-]
+[n]Zephyr
+[r]ort
+[r]eth
+[e]arcos
+[e]bestas
+[l]21
+[s]7% de chance de lancar __TWISTER__ lv1 ao ser atingido
+[s]Aumento de dano +33%
+[s]Dano de raio +1--50
+[s]Aumento na velocidade de ataque +25%
+[s]Defesa do alvo -25%
+[s]Velocidade de andar/correr +25%
+[s]Defesa +25
+[s]Taxa de ataque +66
+[?]Livre
+[-]
+[end]
